@@ -1,0 +1,6 @@
+2023-08-06 00:48:25.216312 - Initialized conversion of CBT089
+2023-08-06 00:48:25.256889 - Received CBT.V505.FILE089.PDS from FILE089.XMI 
+2023-08-06 00:48:25.258789 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE089.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:48:25.259931 - Found @FILE089.txt (text/plain) in CBT.V505.FILE089.PDS, moved to PDS/@FILE089
+2023-08-06 00:48:25.261110 - Found DYNAM.txt (text/plain) in CBT.V505.FILE089.PDS, moved to PDS/DYNAM
+2023-08-06 00:48:25.262004 - Found DYNAMDOC.txt (text/plain) in CBT.V505.FILE089.PDS, moved to PDS/DYNAMDOC
